@@ -1,0 +1,115 @@
+body {
+    background-color: var(--secondary);
+    font-family: 'Inter', sem serifa;
+}
+
+h1 {
+    color: var(--white);
+    font-size: 110px;
+    font-family: 'Alfa Slab One', cursive;
+}
+
+.font-alfa {
+    font-family: 'Alfa Slab One', cursive;
+    color: var(--white);
+}
+
+.font-cursive {
+    font-family: 'Silkscreen', cursive;
+    color: var(--primari);
+}
+
+.tamanho-m {
+    font-size: 40px;
+}
+
+.tamanho-p {
+    font-size: 20px;
+}
+
+.img-principal {
+    width: 70%;
+}
+.principal {
+    display: flex;
+    font-family: 'Alfa Slab One', cursive;
+    margin-left: 20px;
+}
+
+strong {
+    color: var(--primari);
+    font-size: 100px;
+    font-family: 'Silkscreen', cursive;
+}
+
+.menu {
+    background-color: var(--secondary);
+}
+
+.icon {
+    color: var(--white);
+    font-size: 100px;
+    margin-left: 20px;
+}
+
+.hr {
+    margin: 120px 10px;
+    border: solid 3px var(--white);
+}
+
+.bloco2 {
+    margin-left: 20px;
+    display: block;
+}
+
+.img-bloco2 {
+    width: 50%;
+}
+
+.bloco4 {
+float: right;
+align-items: center;
+}
+
+h2 {
+    color: white;
+    font-size: 50px;
+    text-align: center;
+    margin: 20px;
+}
+
+.bloco2 {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    font-family: 'Alfa Slab One', cursive;
+}
+
+.img-money {
+    width: 600px; 
+    margin-top: 90px;
+}
+
+.area1, .area2 {
+    visibility: hidden;
+}
+
+.verde {
+    font-family:'Silkscreen', cursive ;
+    color: var(--primari);
+}
+
+.cell {
+    margin-bottom: 50px;
+}
+
+td {
+    color: var(--primari);
+    border: solid 1px var(--primari);
+    border-radius: 15px;
+    padding: 20px;
+}
+
+.mensagem {
+    width: 210px;
+}

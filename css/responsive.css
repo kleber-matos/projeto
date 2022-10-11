@@ -1,0 +1,51 @@
+
+
+  
+
+
+
+  /*Dispositivos moveis*/
+  @media screen and (max-width: 600px) {
+   
+    body {
+      background-color: var(--secondary);
+    }
+
+    .icon {
+      font-size: 30px;
+    }
+
+    .title, .marcado {
+      font-size: 25px;
+    }
+
+    .img-principal {
+      width: 150px;    
+    }
+
+    h1, strong {
+      font-size: 25px;
+      margin-left: 10px;
+    }
+    
+    h2 {
+      font-size: 25px;
+    }
+
+    .img-money {
+      width: 80px;
+      margin-right: 5px;
+    }
+
+    .cell { 
+      width: 280px;
+    }
+
+    .virtual {
+      margin-bottom: 5px;
+    }
+
+    .atendimento {
+      font-size: 30px;
+    }
+  }
